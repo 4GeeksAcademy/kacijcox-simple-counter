@@ -1,4 +1,3 @@
-@import '~boostrap/scss/boostrap.scss';
 
 .bigCounter{
     text-align: center;
@@ -9,7 +8,8 @@
     display: inline-block;
     font-size: 60px;
     line-height: 20px;
-    height: 20px;
+    max-height: 100%;
+    height: auto;
     background-color: #101010;
     color: white;
     padding: 10px;
